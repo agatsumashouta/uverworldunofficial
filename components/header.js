@@ -19,6 +19,7 @@ const Header = () => {
     };
     return (
         <header>
+            <h1 className="rounded-full font-mono font-bold text-xl">UVERworld非公式ファンサイト</h1>
             <nav>
                 <ul className="flex">
                     <li><button onClick= {HomeButtonOnclick} className="hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-3">Home</button></li>
