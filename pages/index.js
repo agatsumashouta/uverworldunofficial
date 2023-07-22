@@ -4,11 +4,11 @@ import styles from '../styles/Home.module.css';
 function HomePage() {
   return (
     <div className={styles.container}>
-      <h1>ホームページ</h1>
-      <p>ようこそ！</p>
-      <Link href="/about">
+      <h1>こんにちは</h1>
+      <img src='.\images\IMG_1140(Edited).jpg' alt='我妻翔大' className={styles.img}></img>
+      {/* <Link href="/about">
         Aboutページへ
-      </Link>
+      </Link> */}
     </div>
   );
 }
