@@ -1,0 +1,18 @@
+.header {
+    display: inline-flex;
+    list-style: none;
+    margin: 1%;
+    width: 100%;
+    
+}
+.header_li {
+    padding-left: 5%;
+}
+.header_button {
+    
+    background-color: transparent;
+    border: none;
+}
+.header_button:hover {
+    background-image: linear-gradient(to bottom, rgb(48, 108, 181), #d8eafc); /* ホバー時のグラデーションを指定 */
+}
