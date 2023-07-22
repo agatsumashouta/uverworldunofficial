@@ -29,7 +29,7 @@ function HomePage() {
       </section>
       <section id='Link' className='flex'>
         <a href='https://www.youtube.com/@uverworldSMEJ/featured'>
-          <img src='./images/youtube.png' alt='UVERworld Official YouTube Channel' width={50} height={50}  className='flex-2'/>
+          <img src='./images/YouTube.png' alt='UVERworld Official YouTube Channel' width={50} height={50}  className='flex-2'/>
         </a>
         <a href='https://www.instagram.com/uverworld_official'>
           <img src='./images/Instagram.png' alt='uverworld_official' width={50} height={50} className='flex-2'/>  
