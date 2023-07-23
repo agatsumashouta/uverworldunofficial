@@ -20,6 +20,9 @@ module.exports = {
       fontFamily: {
         customFont: ['MyCustomFont', 'Comic Sans MS'],
       },
+      fontSize: {
+        '8px': '8px',
+      },
     },
   },
   plugins: [],
