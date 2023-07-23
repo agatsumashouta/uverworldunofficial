@@ -6,7 +6,7 @@ const Links = () => {
         <div>
             <section id='Link' className='m-5'>
                 <h2 className='font-customFont text-4xl'>Links</h2>
-                <div className='flex justify-between'>
+                <div className='flex justify-between lg:justify-normal'>
                     <a href='https://www.youtube.com/@uverworldSMEJ/featured'>
                         <figure>
                             <img src='./images/YouTube.png' alt='UVERworld Official YouTube Channel' className='flex-1 m-2 w-20 lg:w-50 lg:h-50' />
@@ -26,7 +26,7 @@ const Links = () => {
                         </figure>
                     </a>
                 </div>
-                <div className="flex justify-between">
+                <div className="flex justify-between lg:justify-normal">
                     <a href='https://uw-takuya-rooms.fanpla.jp'>
                         <figure>
                             <img src='./images/takuyanotukurikata.jpg' alt='TAKUYA∞の創り方' className='flex-1 m-2 w-20 lg:w-50 lg:h-50'></img>
