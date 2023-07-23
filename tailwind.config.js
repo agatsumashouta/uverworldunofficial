@@ -12,7 +12,15 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      colors: {
+        myColor1: 'rgb(255, 0, 0)',
+        myColor2: 'rgb(33,103,180)',
+        myColor3: 'rgb(152,181,205)',
+      },
+      fontFamily: {
+        customFont: ['MyCustomFont', 'Comic Sans MS'],
+      },
     },
   },
   plugins: [],
-}
+};

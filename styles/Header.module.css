@@ -14,5 +14,5 @@
     border: none;
 }
 .header_button:hover {
-    background-image: linear-gradient(to bottom, rgb(48, 108, 181), #d8eafc); /* ホバー時のグラデーションを指定 */
+    background-image: linear-gradient(to bottom, rgb(48, 108, 181), rgb(216, 234, 252)); /* ホバー時のグラデーションを指定 */
 }

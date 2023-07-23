@@ -2,3 +2,7 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+/* body {
+    background-image: linear-gradient(to bottom, #2f6db6,#9db5cb);
+  } */
