@@ -44,7 +44,7 @@ const Example = () => {
                 <Modal isOpen={isOpen} onClose={closeModal}>
                     <div >
                         <div className="fixed top-0 left-0 flex w-screen h-screen justify-center items-center bg-myColor4" onClick={closeModal}>
-                            <div className="w-1/2 bg-white h-3/4">
+                            <div className="w-5/6 bg-white h-3/4">
                                 <img src="./images/enigmasis.jpg" className=" w-5/6 h-3/5"></img>
                                 <p className="font-customFont text-3xl m-2">{selectedMember}</p>
                                 <p className="font-customFont text-xl m-2">{selectedDescription}</p>
