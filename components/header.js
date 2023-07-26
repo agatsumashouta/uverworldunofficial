@@ -45,17 +45,17 @@ const Header = () => {
             <nav>
                 <ul className="flex p-b-3 border-b-5 border-gray-500 shadow-md ">
                     <li className="flex-1"><button onClick= {HomeButtonOnclick} className="w-full h-20 hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-3 
-                        font-customFont text-sm md:text-lg lg:text-2xl">UVERworld</button></li>
+                        font-customFont1 text-sm md:text-lg lg:text-2xl">UVERworld</button></li>
                     <li className="flex-1"><button onClick= {HomeButtonOnclick} className="w-full h-20 hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-3
-                        font-customFont text-sm md:text-lg lg:text-2xl">Home</button></li>
+                        font-customFont1 text-sm md:text-lg lg:text-2xl">Home</button></li>
                     <li className="flex-1"><button onClick= {MenberButtonOnclick} className="w-full h-20 hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-1
-                        font-customFont text-sm md:text-lg lg:text-2xl">Menber</button></li>
+                        font-customFont1 text-sm md:text-lg lg:text-2xl">Menber</button></li>
                     <li className="flex-1"><button onClick= {MusicButtonOnclick} className="w-full h-20 hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-1
-                        font-customFont text-sm md:text-lg lg:text-2xl">Music</button></li>
+                        font-customFont1 text-sm md:text-lg lg:text-2xl">Music</button></li>
                     <li className="flex-1"><button onClick= {LinkButtonOnclick} className="w-full h-20 hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-1
-                        font-customFont text-sm md:text-lg lg:text-2xl">Links</button></li>
+                        font-customFont1 text-sm md:text-lg lg:text-2xl">Links</button></li>
                     <li className="flex-1"><button onClick= {StaffButtonOnclick} className="w-full h-20 hover:bg-gradient-to-b from-blue-500 to-blue-150 pl-1
-                        font-customFont text-sm md:text-lg lg:text-2xl">Staff</button></li>
+                        font-customFont1 text-sm md:text-lg lg:text-2xl">Staff</button></li>
                 </ul>
             </nav>
         </header>
