@@ -5,7 +5,7 @@ const Links = () => {
     return (
         <div>
             <section id='Link' className='m-5'>
-                <h2 className='font-customFont text-4xl'>Links</h2>
+                <h2 className='font-customFont1 text-4xl'>Links</h2>
                 <div className='flex justify-between lg:justify-normal'>
                     <a href='https://www.youtube.com/@uverworldSMEJ/featured'>
                         <figure>

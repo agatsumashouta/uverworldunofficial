@@ -3,6 +3,4 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-/* body {
-    background-image: linear-gradient(to bottom, #2f6db6,#9db5cb);
-  } */
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kurenaido&display=swap');
