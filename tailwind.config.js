@@ -19,7 +19,7 @@ module.exports = {
         myColor4: 'rgba(52,53,65,0.5)',
       },
       fontFamily: {
-        customFont: ['MyCustomFont', 'Comic Sans MS'],
+        customFont: ['MyCustomFont', 'cursive'],
       },
       fontSize: {
         '8px': '8px',
