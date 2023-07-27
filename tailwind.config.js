@@ -21,6 +21,7 @@ module.exports = {
       fontFamily: {
         customFont: ['MyCustomFont', 'cursive'],
         customFont1: ['MyCustomFont','Zen Kurenaido'],
+        customFont2: ['MyCustomFont','Tsukimi Rounded'],
       },
       fontSize: {
         '8px': '8px',
